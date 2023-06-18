@@ -82,7 +82,7 @@ function setup() {
   
   fg = loadImage ('https://archive.org/download/spongedance-hd/spongedance-4.gif')
   
-  bg = loadImage ('https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif')
+  bg = loadImage ('https://media.tenor.com/UsUGaFkCTeUAAAAC/kanye-west-black-skinhead.gif')
  
     money = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1669858524/sendmemoney_schfml.png')
   
