@@ -16,9 +16,8 @@ function preload(){
 imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687116396/Hoodie_Trial3_ykne82.png')
  imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687121745/Hoodie_Trial4_ly34d7.png')  
     imgs[2]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687125980/Hoodie_Trial5_fhaq8a.png')
-    
-    
-//  imgs[3] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/DemnaShirt_resized_ko0nu6.png') 
+     imgs[3] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687126713/Hoodie_Trial6_w1bgpm.png') 
+
 //   imgs[4]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773930/carolshirt3d_resized_xs8lip.png')
 //   imgs[5]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/bottledloveshirt3d_flsb0r.png')
 //   imgs[6] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665884116/NOTEBOOKSHIRTTEXT_w3jjsn.jpg')
