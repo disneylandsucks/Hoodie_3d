@@ -89,13 +89,13 @@ function setup() {
 }
 
 function draw() {
-  background('rgb(211,246,0)'); 
+  background('rgb(0,0,0)'); 
   
     push();
   noStroke();
 translate(30, 20, -3000);
   texture(bg);
-  plane(10000, 5000);
+  plane(5000, 5000);
   pop();  
   
 //   push();
