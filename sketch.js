@@ -14,7 +14,9 @@ function preload(){
     audio = createAudio("Carly Rae Jepsen - Call Me Maybe (Audio) [TubeRipper.com].m4a");
 
 imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687116396/Hoodie_Trial3_ykne82.png')
- imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/voldemort_shirt_resized_ytqhl7.png') 
+ imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687121745/Hoodie_Trial4_ly34d7.png') 
+    
+    
     imgs[2]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/OSKI_BIRTHDAY_SHIRT3d_resized_or4zka.png')
  imgs[3] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/DemnaShirt_resized_ko0nu6.png') 
   imgs[4]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773930/carolshirt3d_resized_xs8lip.png')
