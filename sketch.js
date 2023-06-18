@@ -95,7 +95,7 @@ function draw() {
   noStroke();
 translate(30, 20, -3000);
   texture(bg);
-  plane(20000, 20000);
+  plane(5000, 5000);
   pop();  
   
 //   push();
