@@ -78,7 +78,7 @@ function setup() {
   createCanvas(canvasWidth, canvasHeight, WEBGL);
   angleMode(DEGREES)
   shirt = new Shirt(imgs[0], mod, -100, -100, 0, theta)
-    wg = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1687124291/wordstuff2_Yellow_umqu6z.png);
+    wg = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1687124291/wordstuff2_Yellow_umqu6z.png');
   
   fg = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1687124345/image-asset_n3wnoz.gif')
   
