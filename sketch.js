@@ -19,8 +19,8 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
      imgs[3] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687126713/Hoodie_Trial6_w1bgpm.png') 
   imgs[4]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687128207/hoodie_trial7_vhhzmz.png')
   imgs[5]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687129676/hoodie_trial8_qykg0s.png')
+  imgs[6] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687389331/Hoodie_Trial6_tgqkkz.png')
     
-//   imgs[6] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665884116/NOTEBOOKSHIRTTEXT_w3jjsn.jpg')
 //     imgs[7] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665884680/yourCardDeclined_ShirtMockup_vnw9pc.png')    
 //   imgs[8] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1665888592/OSKIWEDDING_SHIRT_tz6okn.png')
 //     imgs[9] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665948981/oskiweddinground2_egydil.png')
