@@ -11,7 +11,7 @@ let clicked = false
 
 function preload(){
     // audio = createAudio("Katy Perry - Firework (Acoustic Session) REMASTERED.mp3");
-    audio = createAudio("Carly Rae Jepsen - Call Me Maybe (Audio) [TubeRipper.com].m4a");
+    audio = createAudio("50 Cent - Candy Shop (Lyrics) ft. Olivia [TubeRipper.com].mp3");
 
 imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687116396/Hoodie_Trial3_ykne82.png')
  imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687121745/Hoodie_Trial4_ly34d7.png')  
