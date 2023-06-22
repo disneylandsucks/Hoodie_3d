@@ -33,18 +33,17 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
       imgs[17] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687467376/Hoodie_Trial16_h7vlx0.png')
 
     
-//          imgs[18] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686357712/MxmToonShirt_zhevxr.png')
+         imgs[18] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687467996/Hoodie_Trial18_ojn2pm.png')
 
-  
-//   imgs[16] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1685669730/MiddleFinger_Finished_Shirt_mdd5jo_toypuq.png')
+  //       imgs[19] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686165632/YoshitomoNaraShirt_TheRealOne_b4p1qk.png')
+
+    //   imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686164179/therealedshirt_nrnrtg.png')
     
+
 //              imgs[21] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686163816/ILoveSac_Shirt_derc72.png')
 
   
   
-//   imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686164179/therealedshirt_nrnrtg.png')
-//       imgs[19] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686165632/YoshitomoNaraShirt_TheRealOne_b4p1qk.png')
-    
 
 
 //                  imgs[22] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686186940/BanShirt_ft4ixj.png')
