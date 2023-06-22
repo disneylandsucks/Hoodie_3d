@@ -20,13 +20,11 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
   imgs[4]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687128207/hoodie_trial7_vhhzmz.png')
   imgs[5]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687129676/hoodie_trial8_qykg0s.png')
   imgs[6] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687389331/Hoodie_Trial6_tgqkkz.png')
-    
     imgs[7] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687389824/Hoodie_Trial7_koxmwj.png')    
   imgs[8] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687390557/Hoodie_Trial8_hpjcef.png')
     imgs[9] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687391454/Hoodie_Trial9_pgktbd.png')
       imgs[10] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687392265/Hoodie_Trial10_n9rle1.png')
-
-//         imgs[11] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665957356/housedrawing_3dShirt_nf3yob.png')
+        imgs[11] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687393519/Hoodie_Trial12_v4xqqc.png')
   
 //         imgs[12] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665957205/mountainshirt_3d_kmlazm.png')
             
