@@ -25,8 +25,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
     imgs[9] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687391454/Hoodie_Trial9_pgktbd.png')
       imgs[10] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687392265/Hoodie_Trial10_n9rle1.png')
         imgs[11] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687393519/Hoodie_Trial12_v4xqqc.png')
-  
-//         imgs[12] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665957205/mountainshirt_3d_kmlazm.png')
+        imgs[12] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687394120/Hoodie_Trial13_odnxf5.png')
             
 //   imgs[13] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665978926/oski_peeing_shirt_xtvoe3.png')
     
