@@ -24,7 +24,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
     imgs[7] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687389824/Hoodie_Trial7_koxmwj.png')    
   imgs[8] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687390557/Hoodie_Trial8_hpjcef.png')
     imgs[9] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687391454/Hoodie_Trial9_pgktbd.png')
-      imgs[10] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687392025/Hoodie_Trial10_io0dfq.png')
+      imgs[10] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687392265/Hoodie_Trial10_n9rle1.png')
 
 //         imgs[11] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665957356/housedrawing_3dShirt_nf3yob.png')
   
