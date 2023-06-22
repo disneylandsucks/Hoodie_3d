@@ -40,7 +40,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
       imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687469139/Hoodie_Trial20_jwfdkf.png')
     
 
-//              imgs[21] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686163816/ILoveSac_Shirt_derc72.png')
+             imgs[21] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687469760/Hoodie_Trial21_ehjrzo.png')
 
   
   
