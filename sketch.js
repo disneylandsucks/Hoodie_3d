@@ -29,10 +29,10 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
   imgs[13] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687392880/Hoodie_Trial11_h8o1zr.png')
   imgs[14] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687395012/Hoodie_Trial14_b1poct.png')  
       imgs[15] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687395488/Hoodie_Trial15_nccaqw.png')  
-  
-// //     imgs[16] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1669922268/fINISHED_HOUSE_sHIRT2_ncbeuk.png')
-  
-//       imgs[17] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686357463/Chaeyoung_Shirt_New_wwwkwj.png')
+    imgs[16] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687467375/Hoodie_Trial17_r50fep.png')
+      imgs[17] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687467376/Hoodie_Trial16_h7vlx0.png')
+
+    
 //          imgs[18] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686357712/MxmToonShirt_zhevxr.png')
 
   
