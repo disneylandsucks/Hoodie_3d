@@ -57,8 +57,14 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
             imgs[26] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
 
 
-  
-  
+              // imgs[27] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
+    
+                // imgs[28] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
+    
+              // imgs[29] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
+    
+              // imgs[30] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
+
   mod = loadModel('uploads_files_3448446_Hoodie_MD.obj')
 }
 
