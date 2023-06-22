@@ -27,8 +27,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
         imgs[11] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687393519/Hoodie_Trial12_v4xqqc.png')
         imgs[12] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687394120/Hoodie_Trial13_odnxf5.png')
   imgs[13] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687392880/Hoodie_Trial11_h8o1zr.png')
-    
-//   imgs[14] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686360384/YourMomShirt_hfcy00.png')  
+  imgs[14] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687395012/Hoodie_Trial14_b1poct.png')  
   
 // //       imgs[14] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1666047243/thisisstupidshirt_wltht1.png')  
 
