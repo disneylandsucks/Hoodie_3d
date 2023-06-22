@@ -35,7 +35,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
     
          imgs[18] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687467996/Hoodie_Trial18_ojn2pm.png')
 
-  //       imgs[19] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686165632/YoshitomoNaraShirt_TheRealOne_b4p1qk.png')
+        imgs[19] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687468620/Hoodie_Trial19_dbnlic.png')
 
     //   imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686164179/therealedshirt_nrnrtg.png')
     
