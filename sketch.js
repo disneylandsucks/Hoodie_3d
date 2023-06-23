@@ -63,7 +63,25 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
     
               imgs[29] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687480837/Hoodie_Trial29_mpkzhh.png')
     
-              // imgs[30] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
+              imgs[30] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+
+                  // imgs[31] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+
+
+                  // imgs[32] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+
+
+                  // imgs[33] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+
+
+                  // imgs[34] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+
+                  // imgs[35] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+
+                  // imgs[36] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+
+                  // imgs[37] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+
 
   mod = loadModel('uploads_files_3448446_Hoodie_MD.obj')
 }
