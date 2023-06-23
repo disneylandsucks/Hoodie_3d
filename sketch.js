@@ -57,9 +57,9 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
             imgs[26] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
 
 
-              // imgs[27] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
+              imgs[27] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687480432/Hoodie_Trial27_n36bko.png')
     
-                // imgs[28] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
+                imgs[28] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687480433/Hoodie_Trial28_otr6ff.png')
     
               // imgs[29] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687473671/Hoodie_Trial26_b0pn0g.png')
     
