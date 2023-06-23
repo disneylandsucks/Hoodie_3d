@@ -71,7 +71,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
                   imgs[32] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687480837/Hoodie_Trial29_mpkzhh.png')
 
 
-                  // imgs[33] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
+                  imgs[33] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687482973/Hoodie_Trial33_d8sk3y.png')
 
 
                   // imgs[34] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687481374/Hoodie_Trial29_a33wjq.png')
