@@ -85,7 +85,27 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
                   imgs[38] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK1_yaxmdl.png')
                   imgs[39] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK2_qzkgpw.png')
                   imgs[40] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png')
-
+    
+                  // imgs[41] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png')
+    
+                  // imgs[42] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png')
+    
+                  // imgs[43] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png') 
+    
+                  // imgs[44] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png')
+    
+                  // imgs[45] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png') 
+    
+                  // imgs[46] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png')
+    
+                  // imgs[47] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png') 
+    
+                  // imgs[48] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png') 
+    
+                  // imgs[49] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png') 
+    
+                  // imgs[50] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687979500/Hoodie_Trial_IDK3_jjquz7.png')
+    
   mod = loadModel('uploads_files_3448446_Hoodie_MD.obj')
 }
 
